@@ -1,2 +1,2 @@
 
-Colors App with React
+Colors App with React, Material-ui and JSS
